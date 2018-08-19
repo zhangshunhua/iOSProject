@@ -66,3 +66,15 @@ fastlane/screenshots
 
 iOSInjectionProject/
 
+iOSProject/iOSProject/Classes/Category/ThirdCategory/NSDecimalNumber+Addtion.h
+iOSProject/iOSProject/Classes/Category/ThirdCategory/NSDecimalNumber+Addtion.m
+iOSProject/iOSProject/Classes/新浪微博/Model/SINStatus.h
+iOSProject/iOSProject/Classes/新浪微博/Model/SINStatus.m
+iOSProject/iOSProject/Classes/新浪微博/Model/SINUser.h
+iOSProject/iOSProject/Classes/新浪微博/Model/SINUser.m
+iOSProject/iOSProject/Classes/新浪微博/View/SINStatusCell.h
+iOSProject/iOSProject/Classes/新浪微博/View/SINStatusToolBarView.h
+PLMMPRJK/PLMMPRJK.xcodeproj/project.pbxproj
+PLMMPRJK/PLMMPRJK/Classes/Expend/Category/LMJCategorys.h
+PLMMPRJK/PLMMPRJK/Classes/Sina/Controller/SINHomeViewController.m
+PLMMPRJK/PLMMPRJK/Classes/Sina/Tools/SINUserManager.m
